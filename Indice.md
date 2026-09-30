@@ -5,7 +5,7 @@
 
 1. [Introducción_al_taller](dia1/Introducción_al_taller.md)
 2. [Historia_de_Linux](dia1/Historia_de_Linux.md)
-    1. [¿Qué es el software libre?]
+    1. ¿Qué es el software libre?
     2. ¿Qué es GNU?
     3. ¿Qué es Linux?
     4. ¿Qué es GNU/Linux?
