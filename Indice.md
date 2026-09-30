@@ -9,12 +9,12 @@
     2. ¿Qué es GNU?
     3. ¿Qué es Linux?
     4. ¿Qué es GNU/Linux?
-3. [¿Qué_es_una_distribución?](dia1/¿Qué_es_una_distribución?.md)
-4. [¿Qué_es_un_repositorio?](dia1/¿Qué_es_un_repositorio?.md)
+3. [¿Qué_es_una_distribución?](dia1/Qué_es_una_distribución.md)
+4. [¿Qué_es_un_repositorio?](dia1/Qué_es_un_repositorio.md)
     1. apt
     2. snap
     3. flatpak
-5. [¿Qué_es_un_shell?](dia1/¿Qué_es_un_shell?.md)
+5. [¿Qué_es_un_shell?](dia1/Qué_es_un_shell.md)
     1. ¿Qué es la interfaz y terminal?
 6. [Comandos_para_uso_diario](dia1/Comandos_para_uso_diario.md)
 7. [Ejercicio_de_practica](dia1/Ejercicio_de_practica.md)
