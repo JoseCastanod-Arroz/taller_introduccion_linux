@@ -1,4 +1,3 @@
-
 # Lista de temario
 
 ## Día 1
@@ -18,7 +17,8 @@
     1. ¿Qué es la interfaz y terminal?
 6. [Comandos_para_uso_diario](dia1/Comandos_para_uso_diario.md)
 7. [Ejercicio_de_practica](dia1/Ejercicio_de_practica.md)
+
 ## Día 2
 
-1. Instalacion de linux
+1. Instalación de Linux
 2. Bash
