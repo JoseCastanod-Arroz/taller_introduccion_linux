@@ -1,2 +1,3 @@
-# introducción_más alta_linux
-# taller_introduccion_linux
+# Taller de introducción a Linux
+
+Material de apoyo para un taller introductorio de Linux.
