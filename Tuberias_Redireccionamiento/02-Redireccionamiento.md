@@ -61,11 +61,15 @@ comando > salida.txt 2> errores.txt
 # Mandar resultados y errores al MISMO archivo
 comando > todo.txt 2>&1
 
+# Atajo de Bash equivalente al anterior
+comando &> todo.txt
+
 # Descartar los errores por completo (enviarlos a la "papelera" del sistema)
 comando 2> /dev/null
 ```
 
 - `2>&1` significa "manda el canal 2 (errores) al mismo sitio que el canal 1 (salida)".
+- `&>` es un atajo propio de Bash: `comando &> todo.txt` hace lo mismo que `comando > todo.txt 2>&1`, pero más corto.
 - `/dev/null` es un destino especial que descarta todo lo que recibe.
 
 ## Resumen de operadores
@@ -77,3 +81,4 @@ comando 2> /dev/null
 | `<` | Toma la entrada desde un archivo. |
 | `2>` | Redirige los errores a un archivo. |
 | `2>&1` | Une los errores con la salida normal. |
+| `&>` | Atajo de Bash: salida y errores al mismo archivo. |
