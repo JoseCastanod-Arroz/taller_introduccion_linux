@@ -8,6 +8,3 @@ En la terminal, los comandos no están aislados: podemos **conectar la salida de
 - [Redireccionamiento](02-Redireccionamiento.md) - Enviar la salida a archivos y leer la entrada desde archivos (`>`, `>>`, `<`, `2>`).
 - [Tuberías (pipes)](03-Tuberias.md) - Conectar comandos con `|` para encadenar su trabajo.
 
-## Presentación
-
-- [Presentación: Tuberías y Redireccionamiento](../../Presentacion/Presentacion-Tuberias-y-Redireccionamiento.pptx) - Versión en diapositivas (`.pptx`) para exponer el tema en el taller.
