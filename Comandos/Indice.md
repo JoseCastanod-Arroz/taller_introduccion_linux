@@ -4,18 +4,18 @@ Bienvenido a la colección de apuntes del taller de GNU/Linux. En esta sección 
 
 ## Navegación
 
-- [pwd](pwd.md) - Muestra la ruta del directorio actual de trabajo.
-- [cd](cd.md) - Cambia de directorio para moverte por el sistema de archivos.
-- [ls](ls.md) - Lista el contenido de un directorio.
+- [pwd](Navegacion/pwd.md) - Muestra la ruta del directorio actual de trabajo.
+- [cd](Navegacion/cd.md) - Cambia de directorio para moverte por el sistema de archivos.
+- [ls](Navegacion/ls.md) - Lista el contenido de un directorio.
 
 ## Manejo de archivos y directorios
 
-- [cat](cat.md) - Muestra el contenido de uno o varios archivos en la terminal.
-- [cp](cp.md) - Copia archivos y directorios a otra ubicación.
-- [less](less.md) - Visualiza archivos largos de forma paginada y con desplazamiento.
-- [mkdir](mkdir.md) - Crea nuevos directorios.
-- [more](more.md) - Muestra el contenido de un archivo pantalla por pantalla.
-- [mv](mv.md) - Mueve o renombra archivos y directorios.
-- [nano](nano.md) - Editor de texto sencillo para crear y modificar archivos desde la terminal.
-- [rm](rm.md) - Elimina archivos y directorios.
-- [touch](touch.md) - Crea archivos vacíos o actualiza la fecha de modificación de un archivo.
+- [cat](Manejo-archivos_directorios/cat.md) - Muestra el contenido de uno o varios archivos en la terminal.
+- [cp](Manejo-archivos_directorios/cp.md) - Copia archivos y directorios a otra ubicación.
+- [less](Manejo-archivos_directorios/less.md) - Visualiza archivos largos de forma paginada y con desplazamiento.
+- [mkdir](Manejo-archivos_directorios/mkdir.md) - Crea nuevos directorios.
+- [more](Manejo-archivos_directorios/more.md) - Muestra el contenido de un archivo pantalla por pantalla.
+- [mv](Manejo-archivos_directorios/mv.md) - Mueve o renombra archivos y directorios.
+- [nano](Manejo-archivos_directorios/nano.md) - Editor de texto sencillo para crear y modificar archivos desde la terminal.
+- [rm](Manejo-archivos_directorios/rm.md) - Elimina archivos y directorios.
+- [touch](Manejo-archivos_directorios/touch.md) - Crea archivos vacíos o actualiza la fecha de modificación de un archivo.
